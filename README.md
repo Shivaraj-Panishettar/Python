@@ -71,7 +71,7 @@ wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
 bash Miniconda3-latest-Linux-x86_64.sh
 
 
-🪟 Windows
+#### Windows
 Download and run the .exe installer from the link above
 
 Follow the setup instructions
