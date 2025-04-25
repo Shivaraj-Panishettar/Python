@@ -1,28 +1,65 @@
-# 🐍 Welcome to My Python Projects Repo!
+# 🐍 My Python Projects & Learning Hub
 
 Hey there! 👋  
-This is my personal space where I share all the cool things I build using Python. From handy scripts to mini 2D games and desktop apps—it's all here!
+Welcome to my Python repo — a mix of fun projects, small games, desktop apps, and a growing collection of Python basics, theory, and code examples. Whether you're a beginner or just browsing, feel free to explore and learn with me!
 
 ---
 
-## 🎮 What’s Inside?
+## 📚 What You'll Find Here
 
-Here are some of the things you’ll find:
+### 🧠 Python Basics & Theory
+A section dedicated to learning the fundamentals of Python, including:
+- Variables, data types, and operators
+- Control flow: if/else, loops
+- Functions and modules
+- Object-Oriented Programming (OOP)
+- File handling
+- Error handling
+- Useful examples with code snippets
 
-- 🧪 **Mini Projects & Coding Challenges** – Fun little programs and algorithm practice
-- 🎮 **2D Games (Pygame)** – Simple games made with Pygame, just for fun!
-- 🖥️ **Desktop Apps (PyQt)** – Cool GUI projects using PyQt for sleek interfaces
-- ⚙️ **Automation Scripts** – Scripts that make life a bit easier
-- 📊 **Data Stuff** – Some basic data analysis using pandas, matplotlib, etc.
+📂 Check out the `python-basics/` folder for all this and more!
 
 ---
 
-## 💻 Tech I Use
+## 🚀 Projects & Cool Stuff
 
-- Python 3.6 & 3.8 (sometimes) 🐍  
+### 🎮 2D Games with Pygame
+- Simple arcade-style games
+- Fun projects to explore game logic, collision, and animation
+📂 See `pygame-projects/`
+
+### 🖥️ GUI Apps with PyQt
+- Interactive desktop apps with modern interfaces
+📂 See `pyqt-projects/`
+
+### ⚙️ Automation Scripts
+- Scripts for automating boring stuff (file sorting, web scraping, etc.)
+📂 Check out `automation-scripts/`
+
+### 📊 Data Analysis Projects
+- Mini data science projects using pandas, matplotlib, seaborn
+📂 Look in `data-projects/`
+
+### 🧪 Coding Challenges
+- Small algorithm problems, logic puzzles, and practice exercises
+📂 Found in `challenges/`
+
+---
+
+## 💻 Tech Stack
+
+- Python 3.x 🐍  
 - Pygame 🎮  
 - PyQt5 🖼️  
 - Pandas / Matplotlib 📊  
-- Flask (sometimes) 🌐  
+- Flask 🌐  
+- Jupyter Notebooks 📒  
 
 ---
+
+## 📁 How to Use This Repo
+
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+   cd your-repo-name
