@@ -25,30 +25,30 @@ A section dedicated to learning the fundamentals of Python, including:
 
 ### 🎮 2D Games with Pygame
 - Simple arcade-style games
-- Fun projects to explore game logic, collision, and animation  
+- Fun projects to explore game logic, collision, and animation
 📂 See `pygame-projects/`
 
 ### 🖥️ GUI Apps with PyQt
-- Interactive desktop apps with modern interfaces  
+- Interactive desktop apps with modern interfaces
 📂 See `pyqt-projects/`
 
 ### ⚙️ Automation Scripts
-- Scripts for automating boring stuff (file sorting, web scraping, etc.)  
+- Scripts for automating boring stuff (file sorting, web scraping, etc.)
 📂 Check out `automation-scripts/`
 
 ### 📊 Data Analysis Projects
-- Mini data science projects using pandas, matplotlib, seaborn  
+- Mini data science projects using pandas, matplotlib, seaborn
 📂 Look in `data-projects/`
 
 ### 🧪 Coding Challenges
-- Small algorithm problems, logic puzzles, and practice exercises  
+- Small algorithm problems, logic puzzles, and practice exercises
 📂 Found in `challenges/`
 
 ---
 
 ## 💻 Tech Stack
 
-- Python 3.x 🐍  
+- Python 3.6 🐍  
 - Pygame 🎮  
 - PyQt5 🖼️  
 - Pandas / Matplotlib 📊  
@@ -56,18 +56,4 @@ A section dedicated to learning the fundamentals of Python, including:
 - Jupyter Notebooks 📒  
 
 ---
-
-## 🐍 Setting Up Your Python Environment
-
-To make sure all the projects and code run smoothly, it's a good idea to use a virtual environment with Miniconda or Anaconda. Here's how to get started on any operating system.
-
-### 📦 Install Miniconda (Recommended)
-
-🔗 https://docs.conda.io/en/latest/miniconda.html
-
-#### 🐧 Linux
-```bash
-wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
-bash Miniconda3-latest-Linux-x86_64.sh
-
 
