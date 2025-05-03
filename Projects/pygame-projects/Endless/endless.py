@@ -5,6 +5,11 @@ import time
 import os
 import math
 
+# Skip execution if running in CI (like GitHub Actions)
+if os.environ.get("CI") == "true":
+    print("CI environment detected. Skipping game execution.")
+    sys.exit(0)
+
 # Initialize Pygame
 pygame.init()
 
@@ -214,8 +219,8 @@ def game_loop(player_name):
 
         draw_ui(player_name, score, lives, player, obstacles, background_color)
 
-# Game Start
-while True:
-    player_name = input_name_screen()
-    game_loop(player_name)
-
+# Only run the game if this file is executed directly
+if __name__ == "__main__":
+    while True:
+        player_name = input_name_screen()
+        game_loop(player_name)
